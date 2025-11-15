@@ -2,15 +2,23 @@
 
 ## Project info
 
-**URL**: [Lovable Project Dashboard](https://lovable.dev/projects/0b991a42-6a72-49c5-8e59-87ca420f788e)
+📘 About This Project
 
-## How can I edit this code?
+This project is a Voice Command Web Application built using modern web technologies. It allows users to interact with the system through voice-based inputs, making the experience faster, more accessible, and more intuitive.
 
-There are several ways to edit your application.
+⭐ Key Features
 
----
+Voice command recognition
 
-## ✅ Use Lovable (Recommended)
+Smooth UI using shadcn-ui
+
+Fast performance with Vite
+
+Clean and modular TypeScript codebase
+
+Responsive Tailwind CSS styling
+
+## ✅ Use 
 
 Simply visit your project here:
 

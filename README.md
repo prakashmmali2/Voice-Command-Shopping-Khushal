@@ -2,62 +2,85 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/0b991a42-6a72-49c5-8e59-87ca420f788e
+**URL**: [Lovable Project Dashboard](https://lovable.dev/projects/0b991a42-6a72-49c5-8e59-87ca420f788e)
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
+There are several ways to edit your application.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://voicecommandkhushalshivade.lovable.app) and start prompting.
+## ✅ Use Lovable (Recommended)
 
-Changes made via Lovable will be committed automatically to this repo.
+Simply visit your project here:
 
-**Use your preferred IDE**
+👉 **[https://voicecommandkhushalshivade.lovable.app](https://voicecommandkhushalshivade.lovable.app)**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Make changes using natural prompts. All updates are automatically committed to this repository.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🖥️ Use your preferred IDE
+
+If you prefer working locally:
+
+1. Clone the repository using your project's Git URL:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
+```
 
-# Step 2: Navigate to the project directory.
+2. Navigate to the project folder:
+
+```sh
 cd <YOUR_PROJECT_NAME>
+```
 
-# Step 3: Install the necessary dependencies.
+3. Install dependencies:
+
+```sh
 npm i
+```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+4. Start the development server:
+
+```sh
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+This will enable auto‑reloading and instant preview.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## ✏️ Edit directly on GitHub
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+* Open the repo
+* Navigate to any file
+* Click the **pencil icon** to edit
+* Commit your changes
 
-## What technologies are used for this project?
+---
+
+## 🚀 Use GitHub Codespaces
+
+1. Open your repository
+2. Click the **Code** button
+3. Go to the **Codespaces** tab
+4. Click **New codespace**
+5. Edit, commit, and push your changes
+
+---
+
+## 🛠️ Technologies Used
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+* **Vite**
+* **TypeScript**
+* **React**
+* **shadcn-ui**
+* **Tailwind CSS**
 
-https://voicecommandkhushalshivade.lovable.app
+---
+
+### 📝 Developed & Updated By: **Khushal Shivade**
